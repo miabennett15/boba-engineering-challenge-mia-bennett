@@ -2,6 +2,11 @@
 
 This project loads trade data from an Excel workbook into PostgreSQL, exposes the data through a FastAPI service, and supports filtering on trades and open positions.
 
+## Notes
+
+I was not able to finish the entire project and complete the entire challenge without going over the recommeded time limit. 
+Therefore I wasn't able to complete the full test suite.
+
 ## Requirements
 
 - Python 3.11+
